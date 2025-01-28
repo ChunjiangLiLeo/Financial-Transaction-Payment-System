@@ -1,5 +1,4 @@
-# Financial-Transaction-Payment-System
-GitHub Repository Description: Financial-Transaction-Payment-System
+# GitHub Repository Description: Financial-Transaction-Payment-System
 Description:
 The Financial-Transaction-Payment-System is a project designed to build a robust and transparent payment system from scratch. The goal is to streamline financial transactions, improve security, and enhance usability for individuals and businesses. This system incorporates key features such as user authentication, transaction processing, and comprehensive reporting, while ensuring scalability and integration with external financial services.
 
@@ -26,3 +25,4 @@ Frontend Development: HTML, CSS, and JavaScript (React.js) for a responsive user
 Database Management: PostgreSQL for transaction data storage and retrieval.
 Cloud Deployment: AWS or GCP for hosting, scalability, and database integration.
 Security: Implementation of encryption protocols like SSL/TLS to secure transactions.
+
